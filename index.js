@@ -1,3 +1,3 @@
-// var tweet = prompt("Compose your tweet: ");
-// var tweetCount= tweet.length;
-// alert("You have written "+ tweetCount + "characters, you have " +(140-tweetCount)+" Characters remaining\n \n");
+var tweet = prompt("Compose your tweet: ");
+var tweetCount= tweet.length;
+alert("You have written "+ tweetCount + "characters, you have " +(140-tweetCount)+" Characters remaining\n \n");
